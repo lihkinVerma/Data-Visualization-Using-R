@@ -1,5 +1,5 @@
 # Data-Visualization-Using-R
-Range of R functions and libraries for drawing basics as well as some advanced Graphs for Visualizing data of different kinds
+Range of R functions and libraries for drawing basics as well as some advanced Graphs for Visualizing data of different kinds.
 
 # Some Exciting results from Above mentined codes
 
